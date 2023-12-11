@@ -1,0 +1,331 @@
+{
+  "users": [
+    {
+      "name": "Tirth",
+      "email": "tirthsavaj121@gmail.com",
+      "password": "111",
+      "id": 5
+    },
+    {
+      "name": "man",
+      "email": "man@email.com",
+      "password": "111",
+      "id": 6
+    },
+    {
+      "name": "Tirth",
+      "email": "tirthsavaj121@gmail.com",
+      "password": "111",
+      "id": 7
+    }
+  ],
+  "category": [
+    {
+      "category_name": "eletronics",
+      "id": 1
+    },
+    {
+      "category_name": "mobile",
+      "id": 2
+    },
+    {
+      "category_name": "clothes",
+      "id": 3
+    },
+    {
+      "category_name": "grocery",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "Trimmers",
+      "price": 339,
+      "qty": 1,
+      "desc": "A trimmer is actually a versatile product which can be used to trim not only facial hair but also body hair",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFgxSSdl2UcB3VQ3hMzRM0UxmuICM8ZSHV_g&usqp=CAU",
+      "category": "eletronics",
+      "marketstatus": "latest",
+      "status": "instock",
+      "id": 1
+    },
+    {
+      "name": "keyboard",
+      "price": 229,
+      "qty": 1,
+      "desc": " A computer keyboard is an input device used to enter characters and functions into the computer system by pressing buttons, or keys.",
+      "image": "https://m.media-amazon.com/images/I/71k6DaxJjvL._AC_UF1000,1000_QL80_.jpg",
+      "status": "outstock",
+      "category": "eletronics",
+      "marketstatus": "",
+      "id": 2
+    },
+    {
+      "name": "printer",
+      "price": 10190,
+      "qty": 1,
+      "desc": "A printer is a device that accepts text and graphic output from a computer and transfers the information to paper, usually to standard-size, 8.5 sheets of paper.",
+      "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/07/Canon_PIXMA_G650_front_side-scaled.jpg",
+      "status": "outstock",
+      "category": "eletronics",
+      "marketstatus": "",
+      "id": 3
+    },
+    {
+      "name": "pendrive",
+      "price": 296,
+      "qty": 1,
+      "desc": "A USB flash drive is a data storage device that includes flash memory with an integrated USB interface.",
+      "image": "https://cdn.pixabay.com/photo/2014/03/24/17/07/flash-drive-295105_1280.png",
+      "status": "instock",
+      "category": "eletronics",
+      "marketstatus": "",
+      "id": 4
+    },
+    {
+      "name": "iphone",
+      "price": 61999,
+      "qty": 1,
+      "desc": "iPhone is a line of smartphones produced by Apple Inc. that use Apple's own iOS mobile operating system.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYvIm62qrKb4pEABTq75mddxlOTleEHMgeDQ&usqp=CAU",
+      "status": "instock",
+      "category": "mobile",
+      "marketstatus": "",
+      "id": 5
+    },
+    {
+      "name": "mi",
+      "price": 11987,
+      "qty": 1,
+      "desc": "Myocardial infarction (MI), colloquially known as is caused by decreased or complete cessation of blood flow to a portion of the myocardium.",
+      "image": "https://global.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1535513314.32765306.png",
+      "status": "instock",
+      "category": "mobile",
+      "marketstatus": "",
+      "id": 6
+    },
+    {
+      "name": "samsung",
+      "price": 11347,
+      "qty": 1,
+      "desc": "Samsung, South Korean company that is one of the world's largest producers of electronic devices. ",
+      "image": "https://m.media-amazon.com/images/I/41ezRvTwcaL.jpg",
+      "status": "outstock",
+      "category": "mobile",
+      "marketstatus": "",
+      "id": 7
+    },
+    {
+      "name": "vivo",
+      "price": 14999,
+      "qty": 1,
+      "desc": "vivo is a technology company that creates great products based on a design-driven value, with smart devices and intelligent services as its core.",
+      "image": "https://m.media-amazon.com/images/I/61y7ZbTQcWL.jpg",
+      "status": "instock",
+      "category": "mobile",
+      "marketstatus": "",
+      "id": 8
+    },
+    {
+      "name": "Lenovo Monitor",
+      "price": 7499,
+      "qty": 1,
+      "desc": "The 23.8-inch QHD resolution IPS display makes it convenient to accommodate multiple windows without compromising clarity. Constructed with a 3-side NearEdgeless design, you get more screens without taking more space.",
+      "image": "https://www.lenovo.com/medias/ThinkVision_S22e-20_1.jpg?context=bWFzdGVyfGltYWdlc3wxODY1N3xpbWFnZS9qcGVnfGltYWdlcy9oNGEvaDU4LzEzMzkwMTc0NjUwMzk4LmpwZ3wzZWE3MDYzODZmNDc1M2UxOWRjMjc3ZDNiNjc2NjM5MjZkZDAwMzE2MTVhNThiZjRjMGM4MGVlMzZlMjIyMTJm",
+      "status": "instock",
+      "category": "eletronics",
+      "marketstatus": "",
+      "id": 9
+    },
+    {
+      "name": "realme",
+      "price": 8999,
+      "qty": 1,
+      "desc": "Realme is a Chinese smartphone company established on May 4, 2018 (National Youth Day of China), by former Oppo vice-president and head of overseas business department, Sky Li. ",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTDyUsbui4csscWrb2PKhg9Wj52jrXoEL_LKtZfdj74D96Ezq03ur2xRAArLyMHqoeRgVgqnLYVHaV7fMVT335wZfwWzq2sRG7OTOuzXV_1mOqlc5dH0UdxcA&usqp=CAE",
+      "status": "instock",
+      "category": "mobile",
+      "marketstatus": "latest",
+      "id": 10
+    },
+    {
+      "name": "Honor",
+      "price": 31999,
+      "qty": "1",
+      "desc": "Honor is a mobiles, tablets, and wearables brand of Chinese telecommunications giant Huawei.",
+      "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-113428/Honor-Magic4-Pro_cyan_2featured-image-packshot-review-Recovered-Recovered-1024x691.jpg",
+      "category": "mobile",
+      "marketstatus": "upcomming",
+      "status": "instock",
+      "id": 11
+    },
+    {
+      "name": "Nb Nicky Boy Printed Men Round Neck Black T-shirt",
+      "price": 199,
+      "qty": "1",
+      "desc": "A T-shirt (also spelled tee shirt, or tee for short) is a style of fabric shirt named after the T shape of its body and sleeves. ",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ9Bvsq0vxtbfIiqszu6Aq8haJ-t_yLcC_2reWlWjafykDiCNkQotp2X6xx_BCl90ess3SJInBHkqWLbsj9nE85fZVgFTheRh5Gu_c1mKZp&usqp=CAE",
+      "category": "clothes",
+      "marketstatus": "trending",
+      "status": "instock",
+      "id": 12
+    },
+    {
+      "name": "Men Printed, Striped Round Neck T-Shirt",
+      "price": 254,
+      "qty": "1",
+      "desc": "A Classic look that leads over decades. This Striped Crew Neck T-Shirt from Indian Terrain is perfect to your off-duty clothing repertory.",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/7/c/6/m-muscle-for-hustle-zay-clothes-original-imagmxft4e7rphax.jpeg?q=70",
+      "category": "clothes",
+      "marketstatus": "trending",
+      "status": "instock",
+      "id": 13
+    },
+    {
+      "name": "Men Slim Fit Solid Mandarin Collar Casual Shirt",
+      "price": "436",
+      "qty": "1",
+      "desc": "Men Slim Fit Solid Mandarin Collar Casual Shirt. This Casual Shirt has a Mandarin collar , long sleeves with button cuffs , full buttoned placket on the front, yoke on the back, Curved.",
+      "image": "https://rukminim2.flixcart.com/image/832/832/l48s9zk0/shirt/f/i/u/m-sksh-rc-11ee-ma-protocol-original-imagf6hhtbrahyg8.jpeg?q=70",
+      "category": "clothes",
+      "marketstatus": "trending",
+      "status": "instock",
+      "id": 14
+    },
+    {
+      "name": "Baby Boys Donald Party(Festive) Sweatshirt Sweatpant",
+      "price": "456",
+      "qty": "1",
+      "desc": "This jacket and pant set is made with quality, materials that are soft and easy to care for. They are lightweight and designed to grow with your child.",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-apparel-combo/i/u/j/2-3-years-angry-duck-03-skyheaven-original-imaghsgbewynwugf.jpeg?q=70",
+      "category": "clothes",
+      "marketstatus": "trending",
+      "status": "instock",
+      "id": 15
+    },
+    {
+      "name": "Unstitched Polycotton Shirt Fabric Printed",
+      "price": "432",
+      "qty": "1",
+      "desc": "This piece of shirt fabric from This Brand is the perfect pick for your party wardrobe. Pair it up with sleek trousers and shoes for an outstanding look.",
+      "image": "https://rukminim2.flixcart.com/image/832/832/kvifekw0/fabric/h/z/o/no-2-35-m-unstitched-na-black-aghori-guoyu-original-imag8dymcy7zdyxv.jpeg?q=70",
+      "category": "clothes",
+      "marketstatus": "trending",
+      "status": "instock",
+      "id": 16
+    },
+    {
+      "name": "Baby Boys Casual T-shirt Pyjama  (White)",
+      "price": "234",
+      "qty": "1",
+      "desc": "Pumpoosh Baby Boys & Baby Girls Casual T-shirt Pyjama (White). Product Details. Primary Color. White. Fabric. Cotton Blend. Pattern. Printed. Details.",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-apparel-combo/w/d/v/1-2-years-super-hero-cutehug-original-imaghjpdghssbzph.jpeg?q=70",
+      "category": "clothes",
+      "marketstatus": "trending",
+      "status": "instock",
+      "id": 17
+    },
+    {
+      "name": "electric stove",
+      "price": 5000,
+      "qty": 1,
+      "desc": "An electric stove, electric cooker or electric range is a stove with an integrated electrical heating device to cook and bake.",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/induction-cook-top/d/y/y/hatco-high-power-commercial-induction-cooktop-heavy-duty-original-imagmmf8pezmgndk.jpeg?q=70",
+      "status": "instock",
+      "category": "eletronics",
+      "marketstatus": "",
+      "id": 18
+    },
+    {
+      "name": " Genteel Matic Liquid",
+      "price": 540,
+      "qty": 1,
+      "desc": "This liquid detergent protects your clothes from fading and ensures the colour of the fabric remains bright, even after repeated washing. ",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/liquid-detergent/l/m/g/-original-imagtjjyf4hrhfaa.jpeg?q=70",
+      "status": "instock",
+      "category": "grocery",
+      "marketstatus": "best",
+      "id": 19
+    },
+    {
+      "name": " Keratin Smooth Shampoo",
+      "price": 780,
+      "qty": 1,
+      "desc": "TRESemmé Keratin Smooth Shampoo makes your hair visibly straight and smoother. Infused with light-weight Argan Oil, this shampoo conditions your hair making them silky smooth and easier to manage.",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/shampoo/t/o/f/-original-imagkycygz4ajfhg.jpeg?q=70",
+      "status": "instock",
+      "category": "grocery",
+      "marketstatus": "",
+      "id": 20
+    },
+    {
+      "name": " Ching's Secret Fried Rice Masala",
+      "price": 230,
+      "qty": 1,
+      "desc": "It is so perfectly blended that you don't even need to add any salt, spice or sauces additionally.",
+      "image": "https://rukminim2.flixcart.com/image/416/416/l15bxjk0/spice-masala/2/f/6/-original-imagcrzd8s8zcfhe.jpeg?q=70",
+      "status": "instock",
+      "category": "grocery",
+      "marketstatus": "",
+      "id": 21
+    },
+    {
+      "name": " Vegetable & Fruit Chopper",
+      "price": 150,
+      "qty": 1,
+      "desc": "It is made from high-quality food-grade plastic that is BPA-free. This manual food chopper can cut your food preparation time.",
+      "image": "https://rukminim2.flixcart.com/image/416/416/kthjy4w0/chopper/n/l/m/fksbjd650blu-flipkart-smartbuy-original-imag6tn6j67zgq9w.jpeg?q=70",
+      "status": "instock",
+      "category": "grocery",
+      "marketstatus": "",
+      "id": 22
+    },
+    {
+      "name": " Stainless Steel Kitchen Tool Set",
+      "price": 500,
+      "qty": 1,
+      "desc": "Made entirely from ultra-durable, polished 18/10 stainless steel. Long-reaching handles are ideal for pots and pans of all sizes. ",
+      "image": "https://rukminim2.flixcart.com/image/416/416/l0r1j0w0/kitchen-tool-set/6/5/r/-original-imagch2yyzejknzh.jpeg?q=70",
+      "status": "instock",
+      "category": "grocery",
+      "marketstatus": "",
+      "id": 23
+    }
+  ],
+  "slider": [
+    {
+      "image": "https://images.vexels.com/content/194701/preview/online-shopping-slider-template-d1aa6f.png",
+      "id": 1
+    },
+    {
+      "image": "https://imgscf.slidemembers.com/docs/1/1/442/online_shopping_powerpoint_themes_441514.jpg",
+      "id": 2
+    },
+    {
+      "image": "https://i.pinimg.com/736x/c0/c0/68/c0c0688a33511ddf927c2e9f2af478ca.jpg",
+      "id": 3
+    }
+  ],
+  "carts": [
+    {
+      "name": "Trimmers",
+      "price": 339,
+      "qty": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFgxSSdl2UcB3VQ3hMzRM0UxmuICM8ZSHV_g&usqp=CAU",
+      "category": "eletronics",
+      "productId": 1,
+      "userId": 5,
+      "id": 1
+    },
+    {
+      "name": "Trimmers",
+      "price": 339,
+      "qty": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFgxSSdl2UcB3VQ3hMzRM0UxmuICM8ZSHV_g&usqp=CAU",
+      "category": "eletronics",
+      "productId": 1,
+      "userId": 6,
+      "id": 2
+    }
+  ]
+}
